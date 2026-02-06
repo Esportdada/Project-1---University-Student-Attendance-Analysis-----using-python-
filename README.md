@@ -1,0 +1,2 @@
+# Project-1 ( University Student Attendance Analysis) -  using python 
+The Student Attendance Management System is a simple project designed to record and manage student attendance digitally. It hlps reduce manual work and avoids errors found in traditional paper-based methods. The system stores student details and daily attendance records securely. Teachers can easily track attendance and calculate attendance percentages. Basic analysis helps identify irregulat attendance patterns. The project improves efficiency and accuracy in attendace management. 
